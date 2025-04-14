@@ -1,2 +1,14 @@
-# responisve-simple-landing-page
-A responsive one-page website built using only HTML and CSS. It includes smooth scrolling to sections like Home, About, and Contact.
+# Simple Landing Page
+
+This is a responsive one-page website created using only **HTML** and **CSS**. It includes:
+
+- A navigation bar with smooth scrolling
+- Basic responsive layout without JavaScript
+- Sections for Home, About, and Contact
+
+## Tech Stack
+
+- HTML5
+- CSS3
+
+
